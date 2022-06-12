@@ -1,0 +1,7 @@
+Backup Database
+./Applications/MAMP/Library/bin/mysqldump -u username -p xxxxxx --databases dbname>/Users/media/Desktop/dbname-db-backup.sql
+
+To restore
+Create new db name
+Assign priv
+Upload

@@ -1,0 +1,3 @@
+RENAME TABLE old_table_name TO new_table_name;
+
+(rename the db name in phpmyadmin > operations)
